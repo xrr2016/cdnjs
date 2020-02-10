@@ -1,6 +1,6 @@
 {
   "name": "ali-oss",
-  "filename": "videojs.ima.min.js",
+  "filename": "aliyun-oss-sdk.min.js",
   "description": "aliyun oss(object storage service) node client",
   "license": "MIT",
   "author": "dead_horse",
